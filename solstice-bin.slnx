@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/external/">
+    <Project Path="external/ULocres/ULocres.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Solstice.Bin/Solstice.Bin.csproj" />
+  </Folder>
+</Solution>

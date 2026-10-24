@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- CityHash 复用团队 ULocres 的实现（逐行对齐 UE） -->
+    <ProjectReference Include="..\..\external\ULocres\ULocres.csproj" />
+  </ItemGroup>
+
+</Project>

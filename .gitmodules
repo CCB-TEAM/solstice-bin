@@ -1,0 +1,3 @@
+[submodule "external/ULocres"]
+	path = external/ULocres
+	url = https://github.com/CCB-TEAM/ULocres.git
